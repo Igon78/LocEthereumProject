@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imgLogo"
+        android:layout_width="144dp"
+        android:layout_height="99dp"
+        android:layout_marginTop="16dp"
+        android:src="@mipmap/ethereum_icon"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:includeFontPadding="false"
+        android:text="LOC PROJECT"
+        android:textSize="24sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgLogo" />
+
+    <Button
+        android:id="@+id/btnCreate"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="@color/black"
+        android:text="Create Your Wallet"
+        android:textAllCaps="false"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtName" />
+
+    <Button
+        android:id="@+id/btnLoad"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:backgroundTint="@color/black"
+        android:text="Load Your Wallet"
+        android:textAllCaps="false"
+        app:layout_constraintEnd_toEndOf="@+id/btnCreate"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/btnCreate"
+        app:layout_constraintTop_toBottomOf="@+id/btnCreate" />
+
+    <Button
+        android:id="@+id/btnConnect"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="@color/black"
+        android:text="Connect To Etherium Network"
+        android:textAllCaps="false"
+        app:layout_constraintEnd_toEndOf="@+id/btnLoad"
+        app:layout_constraintStart_toStartOf="@+id/btnLoad"
+        app:layout_constraintTop_toBottomOf="@+id/btnLoad" />
+
+    <Button
+        android:id="@+id/btnInfo"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="@color/black"
+        android:text="Information About Your Wallet"
+        android:textAllCaps="false"
+        app:layout_constraintEnd_toEndOf="@+id/btnConnect"
+        app:layout_constraintStart_toStartOf="@+id/btnConnect"
+        app:layout_constraintTop_toBottomOf="@+id/btnConnect" />
+
+    <Button
+        android:id="@+id/btnMap"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="@color/black"
+        android:text="Map"
+        android:textAllCaps="false"
+        app:layout_constraintEnd_toEndOf="@+id/btnInfo"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/btnInfo"
+        app:layout_constraintTop_toBottomOf="@+id/btnInfo" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

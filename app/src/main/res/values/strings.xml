@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bitcoin</string>
+    <string name="activity_connect"> Connect To Your Wallet </string>
+    <string name="activity_create"> Create Your Wallet </string>
+    <string name="activity_info"> Information About Your Wallet</string>
+    <string name="activity_load"> Load Your Wallet </string>
+    <string name="activity_map"> Map </string>
+
+</resources>

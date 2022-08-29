@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Laptop/Desktop/bitcoin/app/src/main/res/layout/activity_connect.xml" value="0.1" />
+        <entry key="..\:/Users/Laptop/Desktop/bitcoin/app/src/main/res/layout/activity_create.xml" value="0.1" />
+        <entry key="..\:/Users/Laptop/Desktop/bitcoin/app/src/main/res/layout/activity_info.xml" value="0.25" />
+        <entry key="..\:/Users/Laptop/Desktop/bitcoin/app/src/main/res/layout/activity_load.xml" value="0.34322916666666664" />
+        <entry key="..\:/Users/Laptop/Desktop/bitcoin/app/src/main/res/layout/activity_load2.xml" value="0.1" />
+        <entry key="..\:/Users/Laptop/Desktop/bitcoin/app/src/main/res/layout/activity_locations.xml" value="0.2851851851851852" />
+        <entry key="..\:/Users/Laptop/Desktop/bitcoin/app/src/main/res/layout/activity_main2.xml" value="0.67" />
+        <entry key="..\:/Users/Laptop/Desktop/bitcoin/app/src/main/res/layout/activity_map.xml" value="0.35885416666666664" />
+        <entry key="..\:/Users/Laptop/Desktop/bitcoin/app/src/main/res/layout/activity_signup.xml" value="0.33" />
+        <entry key="..\:/Users/Laptop/Documents/STUDIA/rok_III_semestr_II/Blockchain/bitcoin/app/src/main/res/drawable/ic_ethereum_icon_purple.xml" value="0.1" />
+        <entry key="..\:/Users/Laptop/Documents/STUDIA/rok_III_semestr_II/Blockchain/bitcoin/app/src/main/res/layout/activity_connect.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Laptop/Documents/STUDIA/rok_III_semestr_II/Blockchain/bitcoin/app/src/main/res/layout/activity_create.xml" value="0.35885416666666664" />
+        <entry key="..\:/Users/Laptop/Documents/STUDIA/rok_III_semestr_II/Blockchain/bitcoin/app/src/main/res/layout/activity_info.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Laptop/Documents/STUDIA/rok_III_semestr_II/Blockchain/bitcoin/app/src/main/res/layout/activity_load2.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Laptop/Documents/STUDIA/rok_III_semestr_II/Blockchain/bitcoin/app/src/main/res/layout/activity_locations.xml" value="0.22685185185185186" />
+        <entry key="..\:/Users/Laptop/Documents/STUDIA/rok_III_semestr_II/Blockchain/bitcoin/app/src/main/res/layout/activity_main2.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Laptop/Documents/STUDIA/rok_III_semestr_II/Blockchain/bitcoin/app/src/main/res/layout/activity_map.xml" value="0.22685185185185186" />
+        <entry key="..\:/Users/Laptop/Documents/STUDIA/rok_III_semestr_II/Blockchain/bitcoin/app/src/main/res/layout/activity_maps.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

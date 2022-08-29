@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "770055797025",
+    "firebase_url": "https://geocoin-9da1d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "geocoin-9da1d",
+    "storage_bucket": "geocoin-9da1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770055797025:android:4d4f360c8f528e5fe02660",
+        "android_client_info": {
+          "package_name": "com.example.locproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770055797025-u48csidv4oj262pg2rahec7k7j8p3t3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZuUk6Mdjri-zMXjbF_VHs1cn_9DRvS6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770055797025-u48csidv4oj262pg2rahec7k7j8p3t3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770055797025:android:e045d5e77f5d83e0e02660",
+        "android_client_info": {
+          "package_name": "com.example.maaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770055797025-u48csidv4oj262pg2rahec7k7j8p3t3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZuUk6Mdjri-zMXjbF_VHs1cn_9DRvS6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770055797025-u48csidv4oj262pg2rahec7k7j8p3t3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
